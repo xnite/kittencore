@@ -1,0 +1,36 @@
+{
+  "name": "kittencore",
+  "description": "Kitten Core is a library for running various types of application servers with different types of interfaces.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "Robert Whitney",
+      "email": "Me@Rob.cat",
+      "web": "https://www.Rob.cat/"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "GNU General Public License v3.0 or later",
+      "url": "https://opensource.org/licenses/GPL-3.0"
+    }
+  ],
+  "homepage": "https://www.rob.cat/projects/kittencore.html",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "commandos": "^0.6.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "glob": "^7.1.6",
+    "htmltidy2": "^0.3.0",
+    "minimatch": "^3.0.4",
+    "mongodb": "^3.6.3",
+    "mysql": "^2.18.1",
+    "qrcode": "^1.4.4",
+    "squirrelly": "^8.0.8",
+    "validator": "^13.5.2",
+    "winston": "^3.3.3"
+  }
+}
